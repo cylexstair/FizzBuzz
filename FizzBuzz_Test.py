@@ -1,3 +1,5 @@
+import FizzBuzz.py
+
 def test_fizzBuzz():
     assert fizzBuzz(1) == "1"
     assert fizzBuzz(3) == "Fizz"
