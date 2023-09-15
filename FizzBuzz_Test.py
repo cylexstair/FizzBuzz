@@ -8,6 +8,6 @@ def test_fizzBuzz():
     assert fizzBuzz(7) == "7"
     assert fizzBuzz(30) == "FizzBuzz"
 
-if name == "main":
+__main__():
     test_fizzBuzz()
     print("Tous les tests sont réussis !")
