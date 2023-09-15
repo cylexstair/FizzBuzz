@@ -1,4 +1,4 @@
-import FizzBuzz.py
+from FizzBuzz import *
 
 def test_fizzBuzz():
     assert fizzBuzz(1) == "1"
